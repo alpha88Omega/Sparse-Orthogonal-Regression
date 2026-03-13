@@ -7,9 +7,13 @@ The experiments are organized as Jupyter notebooks corresponding to the main
 experimental sections of the paper.
 
 Structure
+
   4.1 Recovery of spectral structure.ipynb
+  
   4.2 Function approximation.ipynb
+  
   4.3 Integral estimation.ipynb
+  
   4.4 Equation discovery.ipynb
 
 Each notebook reproduces the results and figures for the corresponding section.
@@ -19,10 +23,12 @@ Requirements
 The notebooks use standard Python scientific computing libraries, including:
 
 numpy
+
 scipy
+
 scikit-learn
+
 matplotlib
-mpmath
 
 Usage
 
